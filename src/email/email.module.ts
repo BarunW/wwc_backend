@@ -11,8 +11,8 @@ import { OtpSchema } from "./schema/otp.schema";
         transport: {
           host:'smtp.sendgrid.net',
           auth: {
-            user:'apikey',
-            pass:'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'
+            user:'',
+            pass:''
           }
         }
       }),
